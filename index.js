@@ -30,3 +30,4 @@ app.post('/komik', async (req, res) => {
   }
 });
 
+
